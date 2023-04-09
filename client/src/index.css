@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
